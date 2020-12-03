@@ -153,5 +153,39 @@ namespace AdventOfCode2020.Properties {
                 return ResourceManager.GetString("input_day1_part1", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 9-12 q: qqqxhnhdmqqqqjz
+        ///12-16 z: zzzzzznwlzzjzdzf
+        ///4-7 s: sssgssw
+        ///13-14 p: pppqzpppppppfpppp
+        ///2-9 m: jknmmmmmmdmmmrm
+        ///4-5 b: bbbrb
+        ///2-10 c: hcpzpjclzc
+        ///7-11 f: ffpffffgfrff
+        ///4-5 j: qrrhjt
+        ///13-14 m: wfwvfxmchplldvm
+        ///8-9 l: lllllllll
+        ///5-9 v: knvvwptdvmchnkd
+        ///1-7 s: sssssqsss
+        ///6-14 j: jjjjjbjjjjjjjp
+        ///6-8 c: cccccqzf
+        ///9-18 h: hhhhchhdhghhhhhhhhch
+        ///2-3 s: bssswhs
+        ///3-4 c: bhtg
+        ///10-13 b: bbbbbbbbbbbbmb
+        ///15-16 l: lllllllmlllllllll
+        ///3-4 m: dwmmcmn
+        ///2-5 h: vqnbh
+        ///10-13 n: nnnnnnnnnnnnln
+        ///12-13 g: vxgggggggggggggg
+        ///4-5 h: hfhxlhh
+        ///6-16 k: x [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string input_day2 {
+            get {
+                return ResourceManager.GetString("input_day2", resourceCulture);
+            }
+        }
     }
 }
