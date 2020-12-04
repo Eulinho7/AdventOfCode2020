@@ -48,7 +48,6 @@
     <Compile Include="Day2\PasswordPolicy.cs" />
     <Compile Include="Day2\Policy.cs" />
     <Compile Include="Day3\D3.cs" />
-    <Compile Include="Day4\Passport.cs" />
     <Compile Include="Day4\D4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
