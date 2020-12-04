@@ -48,6 +48,8 @@
     <Compile Include="Day2\PasswordPolicy.cs" />
     <Compile Include="Day2\Policy.cs" />
     <Compile Include="Day3\D3.cs" />
+    <Compile Include="Day4\Passport.cs" />
+    <Compile Include="Day4\D4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -63,6 +65,7 @@
     <Content Include="Day1\input_day1_part1.txt" />
     <Content Include="Day2\input_day2.txt" />
     <Content Include="Day3\input_day3.txt" />
+    <Content Include="Day4\input_day4.txt" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
