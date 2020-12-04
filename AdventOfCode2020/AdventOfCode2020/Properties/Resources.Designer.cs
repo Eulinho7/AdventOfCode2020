@@ -179,12 +179,36 @@ namespace AdventOfCode2020.Properties {
         ///2-5 h: vqnbh
         ///10-13 n: nnnnnnnnnnnnln
         ///12-13 g: vxgggggggggggggg
-        ///4-5 h: hfhxlhh
-        ///6-16 k: x [rest of string was truncated]&quot;;.
+        /// [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string input_day2 {
             get {
                 return ResourceManager.GetString("input_day2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .##.....#....#....#..#.#...#.##
+        ///.###........#.##....#......#..#
+        ///#..#..#.....#...#....#.#.......
+        ///.........#.................#...
+        ///..#.......#.#.......#.......#.#
+        ///.####........#.#..##.........#.
+        ///........#.........#.........#..
+        ///#..##...##....#.....##......#..
+        ///.........#..............#......
+        ///#.........#...##.........#.#...
+        ///..............#........##.....#
+        ///##....#...........#....#.#...#.
+        ///.....#..#.....#...#.#..........
+        ///#.......#...#..##........##..#.
+        ///.#........#.......#............
+        ///.......##.....#.#.#..#.#.......
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string input_day3 {
+            get {
+                return ResourceManager.GetString("input_day3", resourceCulture);
             }
         }
     }
