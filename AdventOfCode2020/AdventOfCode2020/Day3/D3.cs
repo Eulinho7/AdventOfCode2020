@@ -9,7 +9,8 @@
     {
         private List<string> input;
         private int inputWidth;
-        private int solution_Part1;
+        private long solution_Part1;
+        private long solution_Part2;
 
         public D3()
         {
@@ -21,19 +22,28 @@
 
         public void Solve()
         {
-            Solve_Part1();
+            solution_Part1 = Solve_Part1( 3, 1 );
+            solution_Part2 = Solve_Part2();
             Console.WriteLine( solution_Part1 );
+            Console.WriteLine( solution_Part2 );
         }
 
-        private void Solve_Part1()
+        private long Solve_Part1( int shiftRight, int shiftDown )
         {
-            solution_Part1 = 0;
+            int count = 0;
             int pos = 0;
-            foreach( var item in input )
+            for( int i = 0; i < input.Count; i += shiftDown )
             {
-                if( item[pos] == '#' ) solution_Part1++;
-                pos = ( pos + 3 ) % inputWidth;
+                var item = input[i];
+                if( item[pos] == '#' ) count++;
+                pos = ( pos + shiftRight ) % inputWidth;
             }
+            return count;
+        }
+
+        private long Solve_Part2()
+        {
+            return Solve_Part1( 1, 1 ) * Solve_Part1( 3, 1 ) * Solve_Part1( 5, 1 ) * Solve_Part1( 7, 1 ) * Solve_Part1( 1, 2 );
         }
 
         private void ReadInput()
