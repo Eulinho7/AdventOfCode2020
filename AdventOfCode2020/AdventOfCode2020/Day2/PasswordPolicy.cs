@@ -1,7 +1,6 @@
 ﻿namespace AdventOfCode2020.Day2
 {
     using System.Linq;
-
     public class PasswordPolicy
     {
         public Policy Policy { get; set; }

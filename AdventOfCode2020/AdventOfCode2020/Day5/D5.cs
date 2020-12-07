@@ -1,12 +1,9 @@
-﻿using AdventOfCode2020.Properties;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AdventOfCode2020.Day5
+﻿namespace AdventOfCode2020.Day5
 {
+    using AdventOfCode2020.Properties;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
     public class D5
     {
         private List<BoardingPass> input;
