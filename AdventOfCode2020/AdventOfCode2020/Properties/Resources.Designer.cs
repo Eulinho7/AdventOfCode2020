@@ -309,5 +309,66 @@ namespace AdventOfCode2020.Properties {
                 return ResourceManager.GetString("input_day5", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to donpevkjhymzl
+        ///ezyopckdlnvmj
+        ///
+        ///tqwfdoxvim
+        ///imzpqwruhynlca
+        ///wkemdqfvigo
+        ///
+        ///kztsuvpgoheyfdrqbnxmlw
+        ///onzbdgsrqxhetkvypfulwm
+        ///eomvusqtbnwghfzdyxplkr
+        ///lthqvfxbnrpdoekugmzyws
+        ///
+        ///tlsgumiveq
+        ///suevmtgrix
+        ///
+        ///jpcvhae
+        ///kfwg
+        ///
+        ///scbmvulizfajxwdkohynr
+        ///nrwjblvodackhmteufixz
+        ///crjnozhvmxuilfdgwbak
+        ///cjxfvaklnrmzhodubiw
+        ///
+        ///wepjrhznqbsdcg
+        ///bgkxwdzjpcnh
+        ///bzhngpwdjc
+        ///
+        ///zcwd
+        ///bcsdwi
+        ///dzwc
+        ///cndjtw
+        ///widc
+        ///
+        ///fxcdeujrgyimhtnbl
+        ///rgxubfaswmyetdzcpj
+        ///
+        ///qcyvwlznk
+        ///pixvryeqmabkg
+        ///oyhwkvslqtu
+        ///syfvqkj
+        ///
+        ///oxaqtvbck
+        ///xdaocgmjbhr
+        ///
+        ///itmqhlrpfkjex
+        ///glipefrhqdjt
+        ///lfxujtahqrkiep
+        ///
+        ///r
+        ///r
+        ///r
+        ///r
+        ///r [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string input_day6 {
+            get {
+                return ResourceManager.GetString("input_day6", resourceCulture);
+            }
+        }
     }
 }
