@@ -6,8 +6,8 @@
     {
         static void Main( string[] args )
         {
-            var d4 = new Day4.D4();
-            d4.Solve();
+            var d5 = new Day5.D5();
+            d5.Solve();
             Console.ReadKey();
         }
     }
