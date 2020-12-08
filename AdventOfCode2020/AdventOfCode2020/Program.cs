@@ -1,14 +1,13 @@
 ﻿namespace AdventOfCode2020
 {
     using System;
-    using System.Linq;
 
     class Program
     {
         static void Main( string[] args )
         {
-            var d6 = new Day6.D6();
-            d6.Solve();
+            var d7 = new Day7.D7();
+            d7.Solve();
             Console.ReadKey();
         }
     }
