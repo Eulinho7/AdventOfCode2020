@@ -385,5 +385,76 @@ namespace AdventOfCode2020.Properties {
                 return ResourceManager.GetString("input_day7", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to acc +15
+        ///jmp +461
+        ///acc +6
+        ///nop +445
+        ///jmp +324
+        ///jmp +253
+        ///acc -4
+        ///acc +22
+        ///acc +11
+        ///jmp +471
+        ///jmp +145
+        ///acc +19
+        ///jmp -7
+        ///jmp +431
+        ///nop +66
+        ///acc +48
+        ///jmp +409
+        ///jmp +514
+        ///jmp +1
+        ///acc +32
+        ///jmp +552
+        ///acc +21
+        ///jmp +317
+        ///nop +488
+        ///jmp +500
+        ///jmp +214
+        ///acc +41
+        ///jmp +17
+        ///acc +19
+        ///jmp +1
+        ///acc +28
+        ///jmp +74
+        ///acc +37
+        ///acc +46
+        ///acc -10
+        ///jmp +455
+        ///acc +33
+        ///jmp +585
+        ///acc -13
+        ///acc +18
+        ///jmp +19
+        ///jmp +601
+        ///acc +30
+        ///jmp +272
+        ///acc +18
+        ///acc +50
+        ///acc +1
+        ///acc +29
+        ///jmp +50
+        ///nop +573
+        ///jmp +562
+        ///nop +274
+        ///jmp +1
+        ///acc +6
+        ///jmp +1
+        ///jmp +64
+        ///jmp +1
+        ///acc +37
+        ///jmp +161
+        ///nop +549
+        ///acc +21
+        ///jmp +1
+        ///nop  [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string input_day8 {
+            get {
+                return ResourceManager.GetString("input_day8", resourceCulture);
+            }
+        }
     }
 }
