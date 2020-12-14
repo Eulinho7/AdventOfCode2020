@@ -70,7 +70,7 @@
 
         private void ReadInput()
         {
-            var s = Resources.input_day9;
+            var s = Resources.input_day09;
             foreach( var item in s.Split( '\n' ).ToList() )
             {
                 if( !string.IsNullOrEmpty( item ) )

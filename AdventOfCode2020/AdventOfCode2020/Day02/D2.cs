@@ -18,7 +18,7 @@
 
         private void ReadInput()
         {
-            var s = Resources.input_day2;
+            var s = Resources.input_day02;
             s = s.Replace( Environment.NewLine, "\n" );
             foreach( var item in s.Split( '\n' ).ToList() )
             {

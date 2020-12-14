@@ -36,7 +36,7 @@
 
         private void ReadInput()
         {
-            var s = Resources.input_day5;
+            var s = Resources.input_day05;
             foreach( var item in s.Split( '\n' ).ToList() )
             {
                 if( !string.IsNullOrEmpty( item ) )

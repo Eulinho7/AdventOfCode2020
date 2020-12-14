@@ -44,7 +44,7 @@
 
         private void ReadInput()
         {
-            var s = Resources.input_day4;
+            var s = Resources.input_day04;
             s = s.Replace( "\n\n", ";" );
             foreach( var item in s.Split( ';' ).ToList() )
             {

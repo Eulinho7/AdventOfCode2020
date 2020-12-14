@@ -79,7 +79,7 @@
 
         private void ReadInput()
         {
-            var s = Resources.input_day1_part1;
+            var s = Resources.input_day01;
             s = s.Replace( Environment.NewLine, " " );
             foreach( var item in s.Split( ' ' ).ToList() )
             {

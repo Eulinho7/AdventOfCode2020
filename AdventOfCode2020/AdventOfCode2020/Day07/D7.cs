@@ -47,7 +47,7 @@
 
         private void ReadInput()
         {
-            var s = Resources.input_day7;
+            var s = Resources.input_day07;
             foreach( var item in s.Split( '\n' ).ToList() )
             {
                 int count = -1;

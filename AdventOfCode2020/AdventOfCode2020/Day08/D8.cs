@@ -152,7 +152,7 @@ namespace AdventOfCode2020.Day8
 
         private void ReadInput()
         {
-            var s = Resources.input_day8;
+            var s = Resources.input_day08;
             foreach( var item in s.Split( '\n' ).ToList() )
             {
                 if( !string.IsNullOrEmpty( item ) )

@@ -148,9 +148,9 @@ namespace AdventOfCode2020.Properties {
         ///1788
         ///147 [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day1_part1 {
+        internal static string input_day01 {
             get {
-                return ResourceManager.GetString("input_day1_part1", resourceCulture);
+                return ResourceManager.GetString("input_day01", resourceCulture);
             }
         }
         
@@ -181,9 +181,9 @@ namespace AdventOfCode2020.Properties {
         ///12-13 g: vxgggggggggggggg
         /// [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day2 {
+        internal static string input_day02 {
             get {
-                return ResourceManager.GetString("input_day2", resourceCulture);
+                return ResourceManager.GetString("input_day02", resourceCulture);
             }
         }
         
@@ -205,9 +205,9 @@ namespace AdventOfCode2020.Properties {
         ///.#........#.......#............
         ///.......##.....#.# [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day3 {
+        internal static string input_day03 {
             get {
-                return ResourceManager.GetString("input_day3", resourceCulture);
+                return ResourceManager.GetString("input_day03", resourceCulture);
             }
         }
         
@@ -249,9 +249,9 @@ namespace AdventOfCode2020.Properties {
         ///cid:322 hgt:163cm
         ///byr:1969 hcl:#a97842 pid: [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day4 {
+        internal static string input_day04 {
             get {
-                return ResourceManager.GetString("input_day4", resourceCulture);
+                return ResourceManager.GetString("input_day04", resourceCulture);
             }
         }
         
@@ -304,9 +304,9 @@ namespace AdventOfCode2020.Properties {
         ///FBFFBBBLLL
         ///FBFFFB [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day5 {
+        internal static string input_day05 {
             get {
-                return ResourceManager.GetString("input_day5", resourceCulture);
+                return ResourceManager.GetString("input_day05", resourceCulture);
             }
         }
         
@@ -365,9 +365,9 @@ namespace AdventOfCode2020.Properties {
         ///r
         ///r [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day6 {
+        internal static string input_day06 {
             get {
-                return ResourceManager.GetString("input_day6", resourceCulture);
+                return ResourceManager.GetString("input_day06", resourceCulture);
             }
         }
         
@@ -380,9 +380,9 @@ namespace AdventOfCode2020.Properties {
         ///drab tan bags contain 5 drab maroon bags, 5 bright silver bags, 2 dim tan bags.
         ///light gray bags contain 3  [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day7 {
+        internal static string input_day07 {
             get {
-                return ResourceManager.GetString("input_day7", resourceCulture);
+                return ResourceManager.GetString("input_day07", resourceCulture);
             }
         }
         
@@ -451,9 +451,9 @@ namespace AdventOfCode2020.Properties {
         ///jmp +1
         ///nop  [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day8 {
+        internal static string input_day08 {
             get {
-                return ResourceManager.GetString("input_day8", resourceCulture);
+                return ResourceManager.GetString("input_day08", resourceCulture);
             }
         }
         
@@ -615,9 +615,9 @@ namespace AdventOfCode2020.Properties {
         ///453
         ///71 [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string input_day9 {
+        internal static string input_day09 {
             get {
-                return ResourceManager.GetString("input_day9", resourceCulture);
+                return ResourceManager.GetString("input_day09", resourceCulture);
             }
         }
     }
